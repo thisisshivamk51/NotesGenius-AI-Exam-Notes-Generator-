@@ -174,6 +174,4 @@ examnotesai/
 
 ---
 
-## License
-
-MIT — built for educational and startup use.
+You can view a demonstration of this project's workflow in the following video.
