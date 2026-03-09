@@ -1,4 +1,4 @@
-# ExamNotesAI 🧠
+# NotesGenius 🧠
 
 > One-click AI exam notes with diagrams, charts, and revision mode.
 
